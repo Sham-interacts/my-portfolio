@@ -16,8 +16,8 @@ function Projects() {
             HTML and modern CSS, focusing on readability and clean layout.
           </p>
           <div className="project-links">
-            <a href="#">Live demo</a>
-            <a href="#">Code</a>
+            <a href="https://shamshu-portfolio.netlify.app">Live demo</a>
+            <a href="https://github.com/Sham-interacts/my-portfolio">Code</a>
           </div>
         </div>
 

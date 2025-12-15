@@ -1,4 +1,3 @@
-// src/components/Certifications.jsx
 import React from "react";
 
 function Certifications() {
